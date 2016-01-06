@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABC Share</string>
+    <string name="hello_world">Sharing link address</string>
+    <string name="title_activity_share">SimpleShareActivity</string>
+    <string name="admob_id">ca-app-pub-9049274889961568/9784985887</string>
+    <string name="qr_code">QR code</string>
+    <string name="ivNfc">NFC</string>
+    <string name="tvNfc_notdelivered">NFC not delivered</string>
+    <string name="tvNfc_delivered">NFC delivered</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_installed">App installed</string>
+    <string name="main_explain">To use this app, simply select the content to share from your usual Android application, push the Android sharing icon and click on “ABC Share”.</string>
+    <string name="status_server">Server</string>
+    <string name="status_connect">Connected</string>
+    <string name="status_nfc">NFC</string>
+    <string name="status_a">Link</string>
+    <string name="main_feedback">Send feedback</string>
+    <string name="main_credits">
+<b>Credits</b>\n
+<a href="https://github.com/NanoHttpd/nanohttpd">NanoHTTPD</a> - Http web server library\n
+<a href="https://github.com/zxing/zxing">ZXing</a> - QRcode library\n
+    </string>
+    <string name="feedback_body">Write Your feedback down here</string>
+        <string name="main_troubles">This and target devices should be on the same network; if on different networks, firewalls and proxies should be properly configured to route traffic on port 8080.</string>
+    <string name="feedback_inviareport">Send feedback</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="version">Version</string>
+    <string name="feedback_message">Send also app logs for debugging?</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+
+</resources>
